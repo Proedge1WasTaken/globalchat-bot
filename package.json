@@ -1,0 +1,17 @@
+{
+  "name": "globalchat",
+  "version": "1.0.0",
+  "description": "globalchat bot",
+  "main": "node.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "12.x",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
